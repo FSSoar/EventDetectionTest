@@ -1,0 +1,4 @@
+./images/IMG24.jpg
+./images/IMG40.jpg
+./images/IMG48.jpg
+./images/IMG28.jpg
